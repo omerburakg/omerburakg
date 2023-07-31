@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m mechatronics engineer<br>🌱 I’m currently learning django/rest<br>💬 Ask me about python, django, git
+🔭 I’m mechatronics engineer<br>🌱 I’m currently learning front-end<br>
 
 
 ## 🌐 Socials:
